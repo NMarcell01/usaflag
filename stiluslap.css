@@ -1,6 +1,7 @@
 
   .alap{
     height: 50vh;
+    width: 100vh;
     background: repeating-linear-gradient(
       to bottom,
       #fc0303 0px,
@@ -12,8 +13,8 @@
   }
 
   .kek{
-    height: 43%;
-    width: 35%;
+    height: 38%;
+    width: 30%;
     background-color: blue;
   }
 
