@@ -1,0 +1,32 @@
+
+  .alap{
+    height: 50vh;
+    background: repeating-linear-gradient(
+      to bottom,
+      #fc0303 0px,
+      #fc0303 20px,
+      #ffffff 20px,
+      #ffffff 40px
+    );
+
+  }
+
+  .kek{
+    height: 43%;
+    width: 35%;
+    background-color: blue;
+  }
+
+  .csillagok{
+    width: 288px;
+    height: 245px;
+  }
+
+  p{
+    padding-left: 10px;
+    color: #ffffff;
+    font-size: 33px;
+    line-height: 38%;
+    letter-spacing: 15px;
+    
+  }
